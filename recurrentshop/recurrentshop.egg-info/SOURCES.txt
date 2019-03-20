@@ -1,0 +1,10 @@
+README.md
+setup.py
+backend/__init__.py
+backend/tensorflow_backend.py
+backend/theano_backend.py
+recurrentshop.egg-info/PKG-INFO
+recurrentshop.egg-info/SOURCES.txt
+recurrentshop.egg-info/dependency_links.txt
+recurrentshop.egg-info/requires.txt
+recurrentshop.egg-info/top_level.txt

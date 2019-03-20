@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: recurrentshop
+Version: 1.0.0
+Summary: Framework for building complex recurrent neural networks with Keras
+Home-page: https://github.com/farizrahman4u/recurrentshop
+Author: Fariz Rahman
+Author-email: fariz@datalog.ai
+License: MIT
+Download-URL: https://github.com/farizrahman4u/recurrentshop
+Description: UNKNOWN
+Platform: UNKNOWN
